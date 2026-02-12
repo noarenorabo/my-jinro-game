@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /room/
+
+User-agent: Mediapartners-Google
+Disallow: /room/
+
+User-agent: AdsBot-Google
+Disallow: /room/
